@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  margin-left: 40%;
+  background-color: skyblue;
+  padding: 20px;
+  width: fit-content;
+}
